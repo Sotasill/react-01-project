@@ -1,0 +1,93 @@
+[
+    {
+      "productName": "U56ULOLHZV",
+      "article": "4C0WR2UK",
+      "title": "Product RCM63",
+      "shortDescr": "This is a short description of Product RCM63",
+      "properties": "Color: Red, Size: S, Weight: 5kg",
+      "isOnStock": false,
+      "imgUrl": "https://example.com/images/4C0WR2UK.jpg"
+    },
+    {
+      "product-name": "YRPIHAUMPN",
+      "article": "32KK1Y3N",
+      "title": "Product F0Q4C",
+      "short-descr": "This is a short description of Product F0Q4C",
+      "properties": "Color: Green, Size: XL, Weight: 1kg",
+      "isOnStock": false,
+      "imgUrl": "https://example.com/images/32KK1Y3N.jpg"
+    },
+    {
+      "product-name": "8TZLI6Y6OX",
+      "article": "VS43BQ8J",
+      "title": "Product QVB3G",
+      "short-descr": "This is a short description of Product QVB3G",
+      "properties": "Color: Black, Size: M, Weight: 5kg",
+      "isOnStock": false,
+      "imgUrl": "https://example.com/images/VS43BQ8J.jpg"
+    },
+    {
+      "product-name": "5MFCFVUYBC",
+      "article": "WFLD9366",
+      "title": "Product MMSXS",
+      "short-descr": "This is a short description of Product MMSXS",
+      "properties": "Color: White, Size: S, Weight: 4kg",
+      "isOnStock": true,
+      "imgUrl": "https://example.com/images/WFLD9366.jpg"
+    },
+    {
+      "product-name": "T3385B7OK9",
+      "article": "MP4C4FGK",
+      "title": "Product RZF83",
+      "short-descr": "This is a short description of Product RZF83",
+      "properties": "Color: Blue, Size: XL, Weight: 10kg",
+      "isOnStock": false,
+      "imgUrl": "https://example.com/images/MP4C4FGK.jpg"
+    },
+    {
+      "product-name": "4LQ15O6EQ3",
+      "article": "336J0BY9",
+      "title": "Product 9RULI",
+      "short-descr": "This is a short description of Product 9RULI",
+      "properties": "Color: White, Size: M, Weight: 8kg",
+      "isOnStock": false,
+      "imgUrl": "https://example.com/images/336J0BY9.jpg"
+    },
+    {
+      "product-name": "8KN3TPB662",
+      "article": "477OJKMI",
+      "title": "Product P0O12",
+      "short-descr": "This is a short description of Product P0O12",
+      "properties": "Color: White, Size: S, Weight: 1kg",
+      "isOnStock": true,
+      "imgUrl": "https://example.com/images/477OJKMI.jpg"
+    },
+    {
+      "product-name": "D23KZAGFD9",
+      "article": "29FQ1E80",
+      "title": "Product EP83Y",
+      "short-descr": "This is a short description of Product EP83Y",
+      "properties": "Color: Black, Size: XL, Weight: 9kg",
+      "isOnStock": false,
+      "imgUrl": "https://example.com/images/29FQ1E80.jpg"
+    },
+    {
+      "product-name": "O2G3J7QMGY",
+      "article": "THV4BFG1",
+      "title": "Product JHEY4",
+      "short-descr": "This is a short description of Product JHEY4",
+      "properties": "Color: Blue, Size: M, Weight: 8kg",
+      "isOnStock": true,
+      "imgUrl": "https://example.com/images/THV4BFG1.jpg"
+    },
+    {
+      "product-name": "0PJF01DSUI",
+      "article": "B8E0GMOR",
+      "title": "Product DTG5T",
+      "short-descr": "This is a short description of Product DTG5T",
+      "properties": "Color: Red, Size: M, Weight: 4kg",
+      "isOnStock": false,
+      "imgUrl": "https://example.com/images/B8E0GMOR.jpg"
+    }
+  ]
+  
